@@ -77,6 +77,10 @@ s3://mybucket/file\.txt
    + For **Format**, choose your list's file type\.
    + Select the **I agree** check box\.
    + Choose **Add list**\.
+   
+ ** NOTE  **
+ 
+ The S3 path cannot contain a folder.  It must be a bucket root object
 
 ## To Activate or Deactivate Trusted IP Lists and Threat Lists<a name="activate-procedure"></a>
 
